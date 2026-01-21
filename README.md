@@ -97,7 +97,3 @@ rag_chain = create_retrieval_chain(
 
 **🚑 Trust, but Verify.**  
 *This tool is for educational purposes. Always consult a real medical professional.*
-
----
-
-Feel free to modify any sections or add more details as necessary!
